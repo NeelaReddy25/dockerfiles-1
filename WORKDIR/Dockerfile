@@ -1,6 +1,6 @@
 FROM almalinux:9
 RUN mkdir /app
-WORKDIR cd /app
+WORKDIR /app
 # setup the pwd
 # RUN cd /app
 RUN pwd
