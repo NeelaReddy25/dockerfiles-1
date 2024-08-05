@@ -1,1 +1,1 @@
-FROM alma-linux:10
+FROM almalinux:10
