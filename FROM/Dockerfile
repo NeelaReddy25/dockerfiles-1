@@ -1,1 +1,1 @@
-FROM alpa-linux:9
+FROM alma-linux:9
